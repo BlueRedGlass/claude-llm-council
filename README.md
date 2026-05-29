@@ -43,7 +43,7 @@
 
 ```
 Пожалуйста, установи мне Claude-скилл. Файл SKILL.md лежит в этом GitHub-репозитории:
-https://github.com/[ВАШ-USERNAME]/claude-skills-llm-council
+https://github.com/BlueRedGlass/claude-llm-council
 Поставь его и подскажи, если что-то нужно от меня.
 ```
 
@@ -73,4 +73,4 @@ Claude сам заберёт файл и установит. Если автом
 
 ## Атрибуция
 
-Этот репозиторий — форк работы [Ole Lehmann](https://github.com/aiwithremy/claude-skills-llm-council), который собрал Claude-скилл по методологии [LLM Council](https://github.com/karpathy/llm-council) от Andrej Karpathy. Я локализую и адаптирую под СНГ-предпринимателей.
+Этот репозиторий — локализация работы [Ole Lehmann](https://github.com/aiwithremy/claude-skills-llm-council), который собрал Claude-скилл по методологии [LLM Council](https://github.com/karpathy/llm-council) от Andrej Karpathy. Я локализую и адаптирую под СНГ-предпринимателей.
